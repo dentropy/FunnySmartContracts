@@ -1,5 +1,5 @@
 pragma solidity ^0.4.3;
-contract notaponzischeme {
+contract NotAPonziScheme {
     bool public ironic = true;
     bool public ponzi = false;
     address public my_address = 0x32a71b9f3ee6aef6354f57eea43d3e86c84f9192;

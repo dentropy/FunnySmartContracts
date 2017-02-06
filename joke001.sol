@@ -1,5 +1,5 @@
 pragma solidity ^0.4.3;
-contract joke {
+contract joke001 {
     string public joke = "What is the definition of a con man?";
     string public punchline = "I NEED MONEY TO TELL YOU";
     function () payable {

@@ -1,5 +1,5 @@
 pragma solidity ^0.4.3;
-contract joke {
+contract joke005 {
     string public joke = "Bankers never die...";
     string public punchline = "To find out send this contract 10 PCoin";
 
